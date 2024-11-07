@@ -12,7 +12,7 @@ public class Function {
         int num1=in.nextInt();
         System.out.println("Enter num 2");
         int num2=in.nextInt();
-        int sum = num1+num2; 
+        int sum = num1+num2;
        return sum;   
         
     }
